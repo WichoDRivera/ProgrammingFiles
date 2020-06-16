@@ -1,4 +1,5 @@
 /*Example of code in JS*/
+// Find nemo in an array
 
 const nemo = ["nemo"];
 
