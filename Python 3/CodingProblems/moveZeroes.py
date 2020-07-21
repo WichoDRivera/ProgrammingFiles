@@ -6,7 +6,7 @@ Extra:
 2. Minimize the total number of operations.
 """
 
-# Big O:    Time complexity: O(n)     Space Complexity: O(n)
+# Big O:    Time complexity: O(n)     Space Complexity: O(1)
 
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
