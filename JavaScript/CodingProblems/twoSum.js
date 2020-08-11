@@ -9,6 +9,7 @@ var twoSum = function(nums, target) {
     const dicc = {};
     
     for (let i = 0; i < nums.length; i++){
+        // Undefined >= 0 ---> false
         if (dicc[nums[i]] >= 0){
             return [dicc[nums[i]], i];
         }
