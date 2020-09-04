@@ -11,6 +11,6 @@ def anagram(pool):
     print(len(arrAnagram))
 
 
-pool = ["the", "bats" ,"tabs" ,"in" ,"the" ,"act","cat"]
+pool = ["bar", "rab", "lavanda", "volcano", "can", "nac", "anc"]
 anagram(pool)
 
